@@ -1,2 +1,1 @@
-# resume
-Di Zhang's 简历
+# Di Zhang's 简历
